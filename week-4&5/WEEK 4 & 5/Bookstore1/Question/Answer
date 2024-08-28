@@ -1,0 +1,9 @@
+ What's New in Spring Boot 3
+Spring Boot 3 introduces several new features and improvements, including:
+
+AOT (Ahead-of-Time) Compilation
+Improved startup time and reduced memory footprint through AOT compilation, making it more suitable for serverless environments.
+Improved Native Image Support
+Native image support has been enhanced, allowing you to compile your Spring Boot application into a native executable using GraalVM, which offers faster startup and lower memory consumption.
+Java 17 as the Minimum Requirement
+Spring Boot 3 requires Java 17, leveraging the latest language features and performance improvements.
